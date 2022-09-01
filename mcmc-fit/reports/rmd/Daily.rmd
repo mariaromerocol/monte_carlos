@@ -1,3 +1,0 @@
-# Daily Report
-
-This file could be used for a daily reporting log. It is advisable to write in ascending order, i.e., new entries goes first
